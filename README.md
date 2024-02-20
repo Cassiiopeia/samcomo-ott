@@ -5,6 +5,7 @@
 - Test 3
 - Test 4
 - Test 5
+- Test 6
 
 ## 깃허브 넘나뤼 어렵다
 
