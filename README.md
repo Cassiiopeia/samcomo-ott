@@ -1,2 +1,3 @@
 # SAMCOMO!!!!
 - Hello
+- feature test
